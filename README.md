@@ -1,5 +1,7 @@
 # Getting-started with js
+
 # learn-js
+
 # A repo for learning js and become js expert
 
 TODO
@@ -15,11 +17,11 @@ TODO
 
 5th: giving one line space below your variable alert your name.
 
-6th: inside the (index.html) file you created add all the basic html elements (hint to get the element instantly, hold shit ↥ key and press !, then press enter to generate html basic element, feel free to put anything in body), include your (app.js) file at the bottom of the page before the closing tag of body.
+6th: inside the (index.html) file you saw earlier edit it and include your (app.js) file at the bottom of the page before the closing tag of body.
 
 7th: run it as liveserver and check if it successfully alert your name.
 
 8th: push back to this repo for checking.
 
-lastly: give this repo a star ⭐. 
+lastly: give this repo a star ⭐.
 Goodluck.
