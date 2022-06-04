@@ -23,5 +23,7 @@ TODO
 
 8th: push back to this repo for checking.
 
-lastly: give this repo a star ⭐.
+9th: give this repo a star ⭐.
+
+lastly: need help? checkout my branch for info;
 Goodluck.
