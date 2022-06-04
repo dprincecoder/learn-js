@@ -1,5 +1,7 @@
 # Getting-started with js
+
 # learn-js
+
 # A repo for learning js and become js expert
 
 TODO
@@ -21,5 +23,5 @@ TODO
 
 8th: push back to this repo for checking.
 
-lastly: give this repo a star ⭐. 
+lastly: give this repo a star ⭐.
 Goodluck.
