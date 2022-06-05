@@ -11,7 +11,7 @@ TODO
 
 3rd: Open the folder you cloned in visual-studio code, you will see one file called (index.html).
 
-4th: create a new branch name it with your name then created new file called ( app.js).
+4th: create a new branch name it with your name then created new file called ( app.js) inside your new branch.
 
 4th: inside the (app.js) you just created, create a variable with the keyword (var) feel free to name it anything (hint: myName) this variable you created will have your name as a string.
 
