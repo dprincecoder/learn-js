@@ -1,2 +1,4 @@
 // created an alert
-var callMe = alert("labodinho")
+var callMe = "labodinho";
+
+alert(callMe)
